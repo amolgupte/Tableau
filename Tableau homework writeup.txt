@@ -1,0 +1,8 @@
+Tableau homework write-up
+This was a very interesting homework and gave me lot of flexibility to chose data from Citibike nyc website https://www.citibikenyc.com/system-data
+
+I chose the data for 2017 and 2018 so I could get data for winter and summer months. I got two data set, each of 6 months. Summer months started from March until August and winter months started from September until February. I used python to cleanup the huge dataset. I had to make separate dataframe in which I combined 6 months each for summer and winter. Those dataframes were then converted into csv files and downloaded to the local machine. These csv files for summer and winter were then uploaded to Tableau and I could compare both these files and was able to generate multiple phenomena, dashboard and story. 
+
+Here are the link to my public Tableau profile for viewing the results
+
+https://public.tableau.com/profile/amol.gupte#!/vizhome/TableauHomework_15882990933420/Totalnumberoftripsinthechosenperiod-Summer?publish=yes
